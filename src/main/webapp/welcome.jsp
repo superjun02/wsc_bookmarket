@@ -34,6 +34,7 @@
 		</div>
 		<footer class="pt-3 mt-4 text-body-secondary border-top">
 			&copy; BookMarket </footer>
+		// 소스트리 초기 환경 주석
 	</div>
 </body>
 </html>
