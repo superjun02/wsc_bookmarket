@@ -35,6 +35,7 @@
 		<footer class="pt-3 mt-4 text-body-secondary border-top">
 			&copy; BookMarket </footer>
 		<!-- 소스트리 초기 환경 주석 --> 
+		<!-- 집 컴퓨터 연동 확인 -->
 	</div>
 </body>
 </html>
