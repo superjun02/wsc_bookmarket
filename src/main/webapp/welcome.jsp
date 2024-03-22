@@ -10,7 +10,7 @@
 </head>
 <body>
 	<div class="container py-4">
-		<jsp:include page="menu.jsp"></jsp:include>
+		<%@ include file="menu.jsp" %>
 		<%!
 			String greeting = "도서 쇼핑몰에 오신 것을 환영합니다.";
 			String tagline = "Welcome to Web Market!";
@@ -43,7 +43,7 @@
 				</div>
 			</div>
 		</div>
-		<jsp:include page="footer.jsp"></jsp:include>
+		<%@ include file="footer.jsp" %>
 		<!-- 소스트리 초기 환경 주석 -->
 		<!-- 집 컴퓨터 연동 확인 -->
 	</div>
